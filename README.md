@@ -2,9 +2,9 @@
 <h1 align="center">👋 Olá, eu sou o Clebson Junior</h1>
 
 <p align="center">
-  🚀 Apaixonado por tecnologia, programação e aprendizado contínuo.<br>
-  💻 Estudante de <b>Python</b> e <b>Desenvolvimento Web</b>.<br>
-  🎯 Buscando evoluir e criar projetos que façam a diferença.
+  🚀 Apaixonado por tecnologia e desenvolvimento de sistemas.<br>
+  💻 Estudo e desenvolvo com foco em <b>Python</b>, <b>PHP</b>, <b>Django</b>, <b>HTML</b> e <b>CSS</b>.<br>
+  🎯 Busco aprimorar minhas habilidades e criar soluções úteis e bem estruturadas.
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,github,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=python,php,django,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -24,15 +24,6 @@
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clebsonjunior&show_icons=true&theme=tokyonight" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clebsonjunior&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- 🏆 Badges -->
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clebsonjunior&theme=tokyonight&no-bg=true&no-frame=true" />
 </p>
 
 ---
