@@ -3,7 +3,8 @@
 
 <p align="center">
   🚀 Apaixonado por tecnologia e desenvolvimento de sistemas.<br>
-  💻 Estudo e desenvolvo com foco em <b>Python</b>, <b>PHP</b>, <b>Django</b>, <b>HTML</b> e <b>CSS</b>.<br>
+  💻 Estudo e desenvolvo com foco em <b>Python</b>.<br>
+  ☕ Iniciando meus estudos em <b>Java</b> e expandindo meus conhecimentos em desenvolvimento de software.<br>
   🎯 Busco aprimorar minhas habilidades e criar soluções úteis e bem estruturadas.
 </p>
 
@@ -13,7 +14,7 @@
 ### 🧰 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,django,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,vscode" />
 </p>
 
 ---
