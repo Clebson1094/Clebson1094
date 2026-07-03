@@ -1,19 +1,16 @@
-<!-- 👋 Cabeçalho -->
-<h1 align="center">Olá, eu sou o Clebson Junior 👋</h1>
+<!-- 👋 Apresentação -->
+<h1 align="center">👋 Olá, eu sou o Clebson Junior</h1>
 
 <p align="center">
-  <b>Desenvolvedor em formação</b> apaixonado por tecnologia e desenvolvimento de software.
-</p>
-
-<p align="center">
-  🚀 Focado em <strong>Python</strong><br>
-  ☕ Aprendendo <strong>Java</strong><br>
-  📚 Sempre buscando evoluir e construir soluções úteis e bem estruturadas.
+  🚀 Apaixonado por tecnologia e desenvolvimento de sistemas.<br>
+  💻 Estudo e desenvolvo com foco em <b>Python</b>.<br>
+  ☕ Iniciando meus estudos em <b>Java</b> e expandindo meus conhecimentos em desenvolvimento de software.<br>
+  🎯 Busco aprimorar minhas habilidades e criar soluções úteis e bem estruturadas.
 </p>
 
 ---
 
-## 💻 Tecnologias e Ferramentas
+## 🧰 Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,vscode,git,github" />
@@ -21,29 +18,27 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Meu GitHub
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Clebson1094&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Clebson1094&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Clebson1094&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  />
+  <a href="https://github.com/Clebson1094?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀%20Ver%20Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub
+## 🌱 Atualmente estudando
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clebson1094&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
+- 🐍 Python
+- ☕ Java
+- 📚 Estruturas de Dados
+- 💡 Boas práticas de programação
+- 🔧 Desenvolvimento de Software
 
 ---
 
@@ -51,9 +46,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/clebson-junior-6204a526a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Clebson1094" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🎯 Objetivo
+
+> Desenvolver soluções cada vez mais eficientes, aprender continuamente e crescer como desenvolvedor, contribuindo com projetos de qualidade.
 
 ---
 
