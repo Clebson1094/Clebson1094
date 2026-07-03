@@ -21,13 +21,8 @@
 ## 📈 Meu GitHub
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Clebson1094&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Clebson1094?tab=repositories">
-    <img src="https://img.shields.io/badge/🚀%20Ver%20Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Clebson1094&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebson1094&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
