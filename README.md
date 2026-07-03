@@ -24,7 +24,10 @@
 
 <p align="center">
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebson1094&layout=compact&theme=tokyonight" />
+  <img
+  height="150em"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Clebson1094&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"
+/>
 </p>
 
 ---
