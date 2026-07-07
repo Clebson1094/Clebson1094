@@ -1,6 +1,5 @@
 <!-- 👋 Apresentação -->
 <h1 align="center">👋 Olá, eu sou o Clebson Junior</h1>
-
 <p align="center">
   🚀 Apaixonado por tecnologia e desenvolvimento de sistemas.<br>
   💻 Estudo e desenvolvo com foco em <b>Python</b>.<br>
@@ -21,14 +20,13 @@
 ## 📈 Meu GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Clebson1094&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebson1094&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Clebson1094&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clebson1094&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 🌱 Atualmente estudando
-
 - 🐍 Python
 - ☕ Java
 - 📚 Estruturas de Dados
@@ -43,7 +41,6 @@
   <a href="https://www.linkedin.com/in/clebson-junior-6204a526a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/Clebson1094" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -52,7 +49,6 @@
 ---
 
 ## 🎯 Objetivo
-
 > Desenvolver soluções cada vez mais eficientes, aprender continuamente e crescer como desenvolvedor, contribuindo com projetos de qualidade.
 
 ---
